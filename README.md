@@ -1,8 +1,44 @@
-# heart-attack-in-USA-DataAnalysis-with-Python-
-This project focuses on analyzing a dataset that contains various health and lifestyle factors that may influence the occurrence of heart attacks in the United States. The goal of this analysis is to identify potential risks and trends that could help improve heart health awareness and prevention strategies. The dataset includes details such as age, cholesterol levels, blood pressure, smoking habits, and whether a heart attack occurred, which will be analyzed to uncover patterns that can inform better health practices. By using data visualization and machine learning techniques, the project aims to provide a deeper understanding of the factors contributing to heart attack risks.
+# ❤️ Heart Attack Prediction & Analysis in the USA
 
-The dataset used for this analysis is the Heart Attack Prediction Dataset from Kaggle, which contains information on both health and lifestyle factors. The columns in the dataset include Age, Cholesterol, Blood Pressure, and the target variable Heart Attack (which indicates whether a heart attack occurred). Other columns provide insights into factors like smoking habits, exercise, and family history, all of which are important for assessing heart attack risk. The project uses Python, with libraries like Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and optionally, Scikit-learn for building predictive machine learning models.
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-To get started, clone the repository, install the necessary dependencies, and open the Jupyter notebook where all the analysis is performed. The project walks through loading the dataset, cleaning the data, and exploring various visualizations that highlight trends such as the relationship between cholesterol levels, blood pressure, and heart attack occurrences. Additionally, predictive models may be built to estimate the likelihood of heart attacks based on the given features, providing valuable insights for heart health prevention.
+## 📊 Live Demo
 
-The analysis reveals important findings, such as the significant relationship between high cholesterol and increased risk of heart attack, as well as how age and blood pressure interact with heart attack risks. By identifying these key trends, this project contributes to the ongoing effort to raise awareness about heart disease and improve preventive health measures.
+![Live Demo](https://github.com/Kavyavenkata/heart-attack-in-USA-DataAnalysis-with-Python-This/blob/main/predict%20heart%20attack.gif)
+
+---
+
+## 📝 Project Overview
+
+This project uses a machine learning model to predict the likelihood of a heart attack based on clinical data. It includes data preprocessing, exploratory data analysis, model training using XGBoost, and a web-based interface for predictions built with Streamlit.
+
+---
+
+## 🚀 Features
+
+- Clean and visualize real-world clinical data
+- Build a classification model using XGBoost
+- Evaluate performance with accuracy and confusion matrix
+- Deploy model in a user-friendly Streamlit interface
+- Predict heart attack risk based on user input
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn, XGBoost
+- Streamlit
+
+---
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/Kavyavenkata/heart-attack-in-USA-DataAnalysis-with-Python-This.git
+cd heart-attack-in-USA-DataAnalysis-with-Python-This
+pip install -r requirements.txt
