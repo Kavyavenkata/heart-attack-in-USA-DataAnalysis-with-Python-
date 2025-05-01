@@ -9,6 +9,13 @@
 ![Live Demo](https://github.com/Kavyavenkata/heart-attack-in-USA-DataAnalysis-with-Python-This/blob/main/predict%20heart%20attack.gif)
 
 ---
+## 📚 Table of Contents
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Installation](#-installation)
+
+---
 
 ## 📝 Project Overview
 
